@@ -13,15 +13,19 @@ Informatics student (Fachabitur) based in Germany. Building web and mobile appli
 ![Supabase](https://img.shields.io/badge/Supabase-18181b?style=flat-square&logo=supabase)
 ![Git](https://img.shields.io/badge/Git-18181b?style=flat-square&logo=git)
 
-## Selected work
+## Selected projects
 
 | Project | Description |
 | --- | --- |
+| [Infinity Portfolio](https://github.com/IljaDzhumelya24/infinity-portfolio) | Personal developer portfolio with React, TypeScript, Vite and GSAP. |
+| [Signal Core](https://github.com/IljaDzhumelya24/ki-agent) | Next.js website for an AI-agent offering, featuring interactive 3D, motion design and automated browser tests. |
+| [Hidden Local Gems](https://github.com/IljaDzhumelya24/Hidden-Local-Gems) | A project for discovering lesser-known places. |
+| [Sonar](https://github.com/IljaDzhumelya24/Sonar) | Experimental audio experience built with Next.js. |
 | [Autofolieren](https://github.com/IljaDzhumelya24/Autofolieren) | Client website built with React, Tailwind CSS and Framer Motion. |
 
-## Professional development
+## Certifications & learning
 
-**OpenAI Academy — Digital Badges**
+**OpenAI Academy — Earned digital badges**
 
 - AI Foundations
 - Applied AI Foundations
@@ -29,6 +33,12 @@ Informatics student (Fachabitur) based in Germany. Building web and mobile appli
 - Get Started with Codex
 - Extend Codex Workflows
 - Scale Codex Across Teams and Systems
+
+## Current focus
+
+- AI agents and practical AI integration
+- Cloud computing and backend development
+- Software architecture, testing and maintainable code
 
 ## Contact
 
